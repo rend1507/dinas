@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'dinas' );
+define( 'DB_NAME', 'sql6581588' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'sql6581588' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'SFtnksSHjk' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql6.freesqldatabase.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'Eqp5K4+J40#_P$ur7-098<)}n{Z|-=+$}d_S7P{aIAFxC(Jv]^9)H=n>@Hognxd>' );
-define( 'SECURE_AUTH_KEY',  'Bd/_qKdHu>W%*&+*+$6c35sBIRno.(xX+2p@7!)k+S!)P/5u=aBS:Z{{`3j-q3TP' );
-define( 'LOGGED_IN_KEY',    'P;7i NwJ?^F#2L?=nwBZe!FOx{LN bn9 AuT8#}y;0B>bQS`f!-}~=AynBtLu66p' );
-define( 'NONCE_KEY',        'SKAs:H)xr(<%EI(z@Va:=/cU.V]c::B@>NBF0/?=:ci4|tuTH^.p.`:i-[3`9ksk' );
-define( 'AUTH_SALT',        ']LEQNI6)rxCD(I23]82C%xdVLrsfH@[W<VF5+?DRxzN1de~d3,hJv3P#YDSc]6L3' );
-define( 'SECURE_AUTH_SALT', '5( >q kV4$>qMU{4u/=B>:a1Cf83]yn7S)Fq[ikMGjhJe?L`x>$rkAi;S|tE$Vjr' );
-define( 'LOGGED_IN_SALT',   '.nV#iWng*2$8LaFplf<{TW@`j+yx_7neY_Q+HHZZSJCGDhQF3d6w75IYcbU4980S' );
-define( 'NONCE_SALT',       'rL3+89nx|aeVK/V<IkkD_qwUedl?G@V:`t$s%ISTgfF=}V]ZMij-bT;ke^HYtXJ%' );
+define( 'AUTH_KEY',         'EF27z&t~1j8LBy*2Cs* x<.ckl7v(2#;G!CIFI;.6`x{]aGL!5!K{z~E]4BASU,v' );
+define( 'SECURE_AUTH_KEY',  '#YR+9CWH+:zJ; XZSVo0X;og}GkppJAcd{XfYy(&(oRyncKPZlcrukCTc[pMY2.v' );
+define( 'LOGGED_IN_KEY',    'h9Z SCu!S`EJX$xl@rCZVsXuXxv%2JMS_5e$X2)G?b$mXp}^$}CEQ>k?D#7x76aV' );
+define( 'NONCE_KEY',        '(u/#4TV0DZ3u CD}:(>^CuAU)`>m70wSE/:q&a5GfQ];>>^UWa`!G3c$udv~IRn=' );
+define( 'AUTH_SALT',        'Z%@{7,TPSd%, }]RY#NZRbac>DtNWu&4e>WR(`#}2P240v2XWiL2KG4vb<_JhFg5' );
+define( 'SECURE_AUTH_SALT', 'v@RPG ;~<Nq[sc0T*}(q+[!^/!d4TNG0rh7Y;k%tlX:Sc&shXAd(RPir c0v=MDy' );
+define( 'LOGGED_IN_SALT',   '8^Lf|oK<$R2mI@mP86 2+#UbvsA@0WOi!@0H6;ZiHk@SxpjnAiztA^&KjxmPzbS8' );
+define( 'NONCE_SALT',       '&9WoF<htKvc/slj]1(Il++}_^iO[a^xi?_G$dM]nWE0Y)y9Ht|=[Dt5EGP8SK+$I' );
 
 /**#@-*/
 
